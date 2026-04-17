@@ -1,4 +1,5 @@
-# Signal Processing Lernplan\n\nTiva C + Raspberry Pi + Python DSP
+# Signal Processing Lernplan
+Tiva C + Raspberry Pi + Python DSP
 
 ## Projektstruktur
 woche1_dsp_grundlagen/
